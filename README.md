@@ -3,8 +3,8 @@
 
 - 🔭 Atualmente me formando em Ciência da Computação pela faculdade Senac
 - 🌱 Foco em back-end e IA
-- 🤔 Buscando evoluir cada vez mais na área
-- ⚡ Pontos-chave no trabalho em equipe, comunicação e disciplina
+- 🤔 Buscando evolução constante e aumentar o meu conhecimento
+- ⚡ Pontos-chave em trabalho em equipe, comunicação e disciplina
 
 <div align="center">
   <a href="https://github.com/pezbittencourt">
