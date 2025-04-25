@@ -6,12 +6,12 @@
 - 🤔 Buscando evoluir cada vez mais na área
 - ⚡ Pontos-chave no trabalho em equipe, comunicação e disciplina
 
-
+<div align="center">
   <a href="https://github.com/pezbittencourt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pezbittencourt&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pezbittencourt&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   </a>
-
+</div>
 
 <div align="center">
 <div style="display: inline_block"><br>
