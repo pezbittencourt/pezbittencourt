@@ -1,10 +1,10 @@
 ## <h2> Olá, mundo! Seja bem-vindo ao meu GitHub. <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </h2>
 
-- 🔭 Atualmente me formando em Ciência da Computação pela faculdade Senac
-- 🌱 Foco em back-end e IA
-- 🤔 Buscando evolução constante e aumentar o meu conhecimento
-- ⚡ Pontos-chave em trabalho em equipe, comunicação e disciplina
+- 🔭 Graduando em Ciência da Computação pela faculdade Senac
+- 🌱 Back-end, Dados e IA
+- 🤔 Java, JavaScript, C++, Python, HTML, CSS
+- ⚡ Trabalho em equipe, comunicação, disciplina e liderança
 
 <div align="center">
   <a href="https://github.com/pezbittencourt">
