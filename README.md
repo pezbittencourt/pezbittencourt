@@ -6,23 +6,16 @@
 - 🤔 Java, JavaScript, C, Python, HTML, CSS
 - ⚡ Trabalho em equipe, comunicação, disciplina e liderança
 
-<div align="center">
-  <a href="https://github.com/pezbittencourt">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pezbittencourt&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pezbittencourt&show_icons=true&theme=default&include_all_commits=false&count_private=true"/>
-  </a>
-</div>
 
-<div align="center">
-<div style="display: inline_block"><br>
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9ee9a49a-d7b5-4890-ab5e-4c0df86d7e0f" /> Fã de Star Wars e entusiasta da cultura geek
 
-  <img align="center" alt="Pedro-java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
-  <img align="center" alt="Pedro-sql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-          
-</div> 
+<h2>📈 GitHub Stats </h2>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pezbittencourt&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117" alt="Pedro Bittencourt github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pezbittencourt&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117"/>
 </div>
+<h2>🔥 Skills </h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=,html,css,javascript,java,c,mysql,github,git">
+  </p>
