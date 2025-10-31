@@ -1,9 +1,9 @@
 ## <h2> Olá, mundo! Seja bem-vindo ao meu GitHub. <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 </h2>
 
-- 🔭 Graduando em Ciência da Computação pela faculdade Senac
+- 🔭 Graduando em Ciência da Computação pelo Centro Universitário Senac
 - 🌱 Back-end, Dados e IA
-- 🤔 Java, JavaScript, C, Python, HTML, CSS
+- 🤔 Java, JavaScript, C, Python, C# e SQL
 - ⚡ Trabalho em equipe, comunicação, disciplina e liderança
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9ee9a49a-d7b5-4890-ab5e-4c0df86d7e0f" /> Fã de Star Wars e entusiasta da cultura geek
 
@@ -20,5 +20,5 @@
 
 <h2>🔥 Skills </h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,javascript,java,c,mysql,github,git">
+    <img src="https://skillicons.dev/icons?i=,html,css,javascript,cs,java,c,mysql,github,git">
   </p>
