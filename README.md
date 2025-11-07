@@ -2,7 +2,7 @@
 </h2>
 
 - 🔭 Graduando em Ciência da Computação pelo Centro Universitário Senac
-- 🌱 Back-end, Dados e IA
+- 🌱 Interesse em atuar como desenvolvedor, engenheiro de software, QA ou Analista de Dados
 - 🤔 Java, JavaScript, C, Python, C# e SQL
 - ⚡ Trabalho em equipe, comunicação, disciplina e liderança
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9ee9a49a-d7b5-4890-ab5e-4c0df86d7e0f" /> Fã de Star Wars e entusiasta da cultura geek
