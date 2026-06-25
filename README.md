@@ -81,7 +81,7 @@
 ### ⚙️ Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,rider,idea" />
 </p>
 
 ### 🐧 Operating Systems
