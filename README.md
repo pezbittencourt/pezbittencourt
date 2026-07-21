@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pezbittencourt/pezbittencourt/raw/main/CurriculoPedroZBittencourtAtech.pdf">
+  <a href="https://github.com/pezbittencourt/pezbittencourt/raw/main/PedroBittencourtSoftware.pdf">
     <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00bfbf">
   </a>
 </p>
