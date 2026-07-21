@@ -1,8 +1,8 @@
 <h1 align="center">Pedro Zeferino Bittencourt</h1>
 
 <p align="center">
-  Computer Science student focused on Software Engineering,
-  backend development and software architecture.
+  Computer Science student focused on software engineering,
+  backend development and data automation.
 </p>
 
 <p align="center">
