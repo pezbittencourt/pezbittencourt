@@ -21,11 +21,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science undergraduate — Centro Universitário Senac
-- 💻 Focused on Backend Development, Software Engineering and Software Architecture
+- 💻 Focused on Backend Development, Data Automation and Software Engineering
 - 📚 Studying Object-Oriented Programming, Data Structures and Software Modeling
 - 🤝 Interested in technical leadership, systems organization and scalable solutions
-- ⚙️ Main stack centered around Java, C#, SQL and .NET ecosystem
-
+- ⚙️ Main stack centered around Java, Python, SQL and AI
 ---
 
 ## ⭐ GitHub Analytics
@@ -69,23 +68,17 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,python,c,mysql" />
-</p>
-
-### 🧩 Frameworks & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,html,css,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,cs" />
 </p>
 
 ### ⚙️ Tools & IDEs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,rider,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,rider,idea,pycharm" />
 </p>
 
 ### 🐧 Operating Systems
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows," />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
