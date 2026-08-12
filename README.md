@@ -25,6 +25,7 @@
 - 📚 Studying Object-Oriented Programming, Data Structures and Software Modeling
 - 🤝 Interested in technical leadership, systems organization and scalable solutions
 - ⚙️ Main stack centered around Java, Python, SQL and AI
+
 ---
 
 ## ⭐ GitHub Analytics
@@ -34,13 +35,13 @@
   <img
     width="49%"
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pezbittencourt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=pezbittencourt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
   />
 
   <img
     width="49%"
     height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pezbittencourt&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"
+    src="https://streak-stats.demolab.com?user=pezbittencourt&theme=dark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"
   />
 
 </div>
@@ -49,7 +50,7 @@
 
   <img
     width="40%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pezbittencourt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pezbittencourt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
   />
 
 </div>
@@ -57,11 +58,14 @@
 ---
 
 ### 🏆 GitHub Profile Trophy
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pezbittencourt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=pezbittencourt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"
+  />
 </p>
 
-------
+---
 
 ## 🛠️ Stack & Tools
 
